@@ -7,7 +7,7 @@ title: Hexo
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: Thedustye
 language: en
 timezone: ''
 
@@ -103,5 +103,5 @@ theme: kira
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repository: https://github.com/Thedustye/sdsxhexo.git
+  repository: https://github.com/Thedustye/thedustye.github.io.git
   branch: master
